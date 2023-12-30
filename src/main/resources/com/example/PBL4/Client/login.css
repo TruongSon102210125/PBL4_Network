@@ -1,0 +1,4 @@
+.rounded-container {
+    -fx-background-radius: 10;
+    -fx-background-color: lightgray;
+}
